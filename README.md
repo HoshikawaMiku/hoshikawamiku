@@ -9,11 +9,9 @@
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?    username=HoshikawaMiku&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=HoshikawaMiku&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
-    <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-HoshikawaMiku.vercel.app?user=HoshikawaMiku&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HoshikawaMiku&hide_border=&short_numbers=" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -26,7 +24,7 @@
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,c,cs,matlab&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,c,cs,matlab,unity&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
