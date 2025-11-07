@@ -21,7 +21,7 @@
 - 🌱 Now learning **stm32, Unity, Cangjie, ArkTs**
 - 💬 Ask me about **Game Develop, HarmonyOS Develop, Painting and Modeling Skills**Σ(°△°|||)
 - ⭐ Star my repositories if you find them interesting!
-- 📫 How to reach me: **hoshikawamiku@outlook.com**
+- 📫 How to reach me: **hoshikawamiku@outlook.com**, Chinese, English and Japanese are accepted.
 
     <!-- https://github.com/LelouchFR/skill-icons -->
 #### 👨‍💻 Programming Languages
