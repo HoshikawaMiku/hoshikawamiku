@@ -3,7 +3,7 @@
 
 </p>
 <p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Painter+%7c+Game+Developer;Paint+breakdown%3f+Time+for+some+coding!;Hallo+World+%7c+%e4%bd%a0%e5%a5%bd%ef%bc%8c%e4%b8%96%e7%95%8c+%7c+%e3%81%93%e3%82%93%e3%81%ab%e3%81%a1%e3%81%af%e3%80%81%e4%b8%96%e7%95%8c" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%e6%9c%9d%e7%9d%80%e6%88%91%e6%89%80%e6%8f%8f%e7%bb%98%e7%9a%84%e6%9c%aa%e6%9d%a5%e8%80%8c%e5%8e%bb;Setting+forth+toward+the+future+I+envision;%e5%83%95%e3%82%89%e6%8f%8f%e3%81%84%e3%81%9f%e6%9c%aa%e6%9d%a5%e3%81%b8%0a" alt="Hello World" title="Hello World"/>
 
 </p>
 <p align="center">
@@ -60,5 +60,5 @@
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&&section=footer&text=THE%20END&fontSize=40&fontAlign=50&fontAlignY=85&desc=Heads+up!+The+wheels+are+spinning!&descAlign=50&descSize=20&descAlignY=60&animation=twinkling" alt="The End" title="The End"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&&section=footer&text=THE%20END&fontSize=40&fontAlign=50&fontAlignY=85&desc=As+if+it+were+the+first+sight&descAlign=50&descSize=20&descAlignY=60&animation=twinkling" alt="The End" title="The End"/>
 </p>
