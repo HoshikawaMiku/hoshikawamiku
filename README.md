@@ -38,7 +38,7 @@
 <img  src="https://go-skill-icons.vercel.app/api/icons?i=unity,blender&titles=true" alt="Frontend Development" title="Game Development">
 
 #### 🔨 Tools & Others
-<img  src="https://go-skill-icons.vercel.app/api/icons?i=github,git,ps,au,pr,ae,arduino,pycharm,clion,rider,visualstudio,vscode,outlook&titles=true" alt="Skill Icons" title="Skill Icons">
+<img  src="https://go-skill-icons.vercel.app/api/icons?i=github,git,ps,au,pr,ae,arduino,pycharm,clion,rider,visualstudio,vscode,jupyter,outlook&titles=true" alt="Skill Icons" title="Skill Icons">
 
 
 ## 📊 GitHub Statistics
