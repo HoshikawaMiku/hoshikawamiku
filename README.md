@@ -25,7 +25,7 @@
 
     <!-- https://github.com/LelouchFR/skill-icons -->
 #### 👨‍💻 Programming Languages
-<img  src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,c,cs,matlab&titles=true" alt="Programming Languages" title="Programming Languages">
+<img  src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,c,cs,matlab,ts&titles=true" alt="Programming Languages" title="Programming Languages">
 
 #### 🎨 Frontend Development
 <img  src="https://go-skill-icons.vercel.app/api/icons?i=html,css&titles=true" alt="Frontend Development" title="Frontend Development">
