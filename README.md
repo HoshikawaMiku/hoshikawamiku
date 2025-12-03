@@ -15,7 +15,7 @@
     <a href="https://github.com/HoshikawaMiku"><img src="https://komarev.com/ghpvc/?username=HoshikawaMiku&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 
 ## 🐱 About Me
-<img align= "right" width="400" src="https://github-readme-stats.vercel.app/api?username=hoshikawamiku&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+<img align= "right" width="400" src="https://github-readme-stats.vercel.app/api?username=HoshikawaMiku&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
 
 - 🔭 In university study
 - 🌱 Now learning **stm32, Unity, Cangjie, ArkTS**
@@ -45,8 +45,8 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshikawamiku&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=hoshikawamiku&theme=algolia&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoshikawaMiku&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=HoshikawaMiku&theme=algolia&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
 </div>
 
 
