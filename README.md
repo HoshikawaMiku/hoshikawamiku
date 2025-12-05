@@ -15,4 +15,4 @@
     <a href="https://github.com/TakanashiMirai"><img src="https://img.shields.io/badge/GitHub-TakanashiMirai-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/TakanashiMirai"><img src="https://img.shields.io/badge/Gitee-TakanashiMirai-943e43?logo=gitee" alt="Gitee" title="Gitee" /></a>
       <a href="https://gitcode.com/Takanashi"><img src="https://img.shields.io/badge/GitCode-Takanashi-bb1f3c?logo=gitcode" alt="GitCode" title="GitCode" /></a>
-    <a href="https://space.bilibili.com/1208094653"><img src="https://img.shields.io/badge/%E5%B0%8F%E9%B8%9F%E6%B8%B8%E6%9C%AA%E6%9D%A5ovo-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://space.bilibili.com/1208094653"><img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E5%B0%8F%E9%B8%9F%E6%B8%B8%E6%9C%AA%E6%9D%A5ovo-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
